@@ -5,5 +5,5 @@
             *Tips dataset       
     
 #  You can see the deployed part in following link
- 
- https://charan-455-data-science-day-3app-ihfdua.streamlit.app/
+
+https://charan-455-data-science-day-3app-ml9ff1.streamlit.app/
